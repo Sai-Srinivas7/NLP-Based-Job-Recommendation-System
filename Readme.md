@@ -59,8 +59,6 @@ Open `.env` and set your key:
 OPENAI_API_KEY=your_key_here
 ```
 
-Do not commit the `.env` file — it is already in `.gitignore`.
-
 **4. Train the model**
 
 ```bash
