@@ -1,7 +1,6 @@
 # NLP-Based Job Recommendation System
 
-A machine learning system that analyzes resumes, predicts suitable job roles, and identifies skill gaps. Built as a final project for CSCI 6443 Data Mining (Spring 2025) at George Washington University.
-
+A machine learning system that analyzes resumes, predicts suitable job roles, and identifies skill gaps.
 
 ## Overview
 
